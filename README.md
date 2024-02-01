@@ -8,7 +8,6 @@ Continuous learner, staying abreast of the latest Qlik technologies and best pra
 
 
 
-Skills : Qlikview,Qliksense,NPrinting,Sql
 
 <!--
 **ChennareddyManohar/ChennareddyManohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
