@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'M Manohar From India, And I'M an Accomplished QlikView and Qlik Sense Developer with four years of hands-on experience in designing and implementing robust BI solutions.
+Expertise in developing complex data visualizations, dashboards, and reports, utilizing QlikView and Qlik Sense to extract meaningful insights from diverse datasets.
+Proven track record of optimizing data models, scripting, and ETL processes to enhance overall system performance and user experience.
+Strong analytical and problem-solving skills, demonstrated through successful project deliveries and the ability to translate business requirements into actionable Qlik solutions.
+Continuous learner, staying abreast of the latest Qlik technologies and best practices to ensure cutting-edge solutions for clients.
+
+
+
+
+
 <!--
 **ChennareddyManohar/ChennareddyManohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
